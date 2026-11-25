@@ -15,8 +15,8 @@ It works in five layers, always in this order:
 **Claude Code (all projects):**
 
 ```bash
-git clone https://github.com/youssefashraxff/ui-craft-skill
-cp -r ui-craft-skill/ui-craft ~/.claude/skills/
+git clone https://github.com/youssefashraxff/ui-engineering-guide
+cp -r ui-engineering-guide/ui-craft ~/.claude/skills/
 ```
 
 **Claude Code (one project):** copy `ui-craft/` into `.claude/skills/` in the repo and commit it.
